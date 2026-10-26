@@ -1,0 +1,8 @@
+.venv/
+graphics/node_modules/
+__pycache__/
+*.pyc
+studio/bin/
+.DS_Store
+*.egg-info/
+.pytest_cache/

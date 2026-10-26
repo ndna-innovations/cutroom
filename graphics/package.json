@@ -1,0 +1,31 @@
+{
+  "name": "studio-graphics",
+  "private": true,
+  "description": "Remotion motion-graphics templates for studio-engine (overlays with alpha, 16:9 and 9:16, JSON props in).",
+  "scripts": {
+    "studio": "remotion studio src/index.ts"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.1",
+    "@remotion/bundler": "4.0.536",
+    "@remotion/cli": "4.0.536",
+    "@remotion/layout-utils": "4.0.536",
+    "@remotion/lottie": "4.0.536",
+    "@remotion/motion-blur": "4.0.536",
+    "@remotion/noise": "4.0.536",
+    "@remotion/paths": "4.0.536",
+    "@remotion/renderer": "4.0.536",
+    "@remotion/shapes": "4.0.536",
+    "@remotion/three": "4.0.536",
+    "@types/react": "19.3.0",
+    "lottie-web": "5.12.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.536",
+    "three": "0.170.0",
+    "typescript": "7.0.2"
+  },
+  "devDependencies": {
+    "@types/three": "0.170.0"
+  }
+}
